@@ -1,0 +1,64 @@
+.project-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.project-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+.card-img-wrapper {
+  overflow: hidden;
+}
+
+.card-img-wrapper img {
+  transition: transform 0.4s ease;
+}
+
+.project-card:hover .card-img-wrapper img {
+  transform: scale(1.1);
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+/* Social icons hover effect */
+.social-link {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+.social-link:hover {
+  transform: scale(1.2);
+  color: #0d6efd !important;
+}
+
+/* Card form styling */
+#contact .card {
+  border-radius: 12px;
+}
+
+/* Dark Mode Styles */
+.dark-mode {
+  background-color: #121212;
+  color: #e4e4e4;
+}
+
+.dark-mode .navbar {
+  background-color: #1f1f1f !important;
+}
+
+.dark-mode .card {
+  background-color: #1e1e1e;
+  color: #fff;
+}
+
+.dark-mode .btn-outline-dark {
+  color: #e4e4e4;
+  border-color: #e4e4e4;
+}
+
+.dark-mode .btn-outline-dark:hover {
+  background-color: #e4e4e4;
+  color: #121212;
+}
