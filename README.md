@@ -1,26 +1,26 @@
 # workshop-noida
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square) 
 ![GitHub stars](https://img.shields.io/github/stars/vikasthakurr/workshop-noida?style=flat-square) 
 ![GitHub forks](https://img.shields.io/github/forks/vikasthakurr/workshop-noida?style=flat-square)
 
-## 📌 Overview
+## Overview
 
 Live hands-on web development workshop delivered in Noida covering responsive web foundations and DOM scripting.
 
 **Tags:** `#workshop` `#noida` `#web-development` `#javascript` `#html5`
 
-## 🚀 Key Highlights & Concepts
+## Key Highlights & Concepts
 
 - **Clean Architecture:** Semantic structuring, modular components, and maintainable codebase.
 - **Responsive Design:** Fluid UX optimized across mobile, tablet, and desktop viewports.
 - **Modern Standards:** Built following the latest web development standards and best practices.
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v16+ or v18+ recommended)
@@ -37,22 +37,20 @@ Live hands-on web development workshop delivered in Noida covering responsive we
 2. **Launch the project:**
    Open `index.html` in your browser or serve using VS Code Live Server.
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 workshop-noida/
-├── Asset
-├── index.html
-├── index.js
-├── style.css
+ Asset
+ index.html
+ index.js
+ style.css
 ```
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Vikas Thakur**  
 - **LinkedIn:** [@vikasthakurr](https://www.linkedin.com/in/vikasthakurr)  
 - **Twitter / X:** [@vikasthaakurr](https://twitter.com/vikasthaakurr)  
-- **GitHub:** [@vikasthakurr](https://github.com/vikasthakurr)  
-
-⭐ *If you find this repository helpful or educational, feel free to give it a star!*
+- **GitHub:** [@vikasthakurr](https://github.com/vikasthakurr)
